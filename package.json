@@ -6,6 +6,9 @@
   "author": "Dirk Brandon Lapitan",
   "type": "module",
   "main": "index.js",
-  "scripts": {
+  "scripts": {},
+  "devDependencies": {
+    "tsc-watch": "^7.2.0",
+    "typescript": "^5.9.3"
   }
 }
