@@ -1,0 +1,11 @@
+{
+  "name": "bookmark-manager-backend",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Dirk Brandon Lapitan",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+  }
+}
