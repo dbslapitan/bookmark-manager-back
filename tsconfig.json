@@ -4,8 +4,6 @@
     "noImplicitAny": true,
     "removeComments": false,
     "outDir": "dist",
-    "types": ["node"],
-    "module": "nodenext",
-    "moduleResolution": "nodenext"
+    "module": "commonjs"
   }
 }

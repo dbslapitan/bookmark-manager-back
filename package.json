@@ -4,8 +4,8 @@
   "description": "",
   "license": "ISC",
   "author": "Dirk Brandon Lapitan",
-  "type": "module",
-  "main": "index.js",
+  "type": "commonjs",
+  "main": "dist/index.js",
   "scripts": {
     "clean": "rimraf dist",
     "build": "tsc",
